@@ -1,0 +1,48 @@
+2019-04-21 19:08:03 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (04bbbe074c76e2ea843ac39cf9140042)] -> xpath: //a[@href='/womens-clothing/sarees/?MID=megamenu_sarees_seeall']] found
+2019-04-21 19:08:04 INFO  BasePage:64 - Mousehovered on [[ChromeDriver: chrome on XP (04bbbe074c76e2ea843ac39cf9140042)] -> xpath: //a[@href='/womens-clothing/sarees/?MID=megamenu_sarees_seeall']]
+2019-04-21 19:08:04 INFO  BasePage:79 - MouseHovered on[[ChromeDriver: chrome on XP (04bbbe074c76e2ea843ac39cf9140042)] -> xpath: //a[@href='/womens-clothing/sarees/?MID=megamenu_sarees_seeall']]
+2019-04-21 19:08:05 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (04bbbe074c76e2ea843ac39cf9140042)] -> link text: Embroidered Sarees] found
+2019-04-21 19:08:21 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (04bbbe074c76e2ea843ac39cf9140042)] -> xpath: //img[contains(@src,'1538760092-Craftsvilla_1.jpg')]] found
+2019-04-21 19:08:26 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (04bbbe074c76e2ea843ac39cf9140042)] -> xpath: //h1[@itemprop='name']] found
+2019-04-21 19:08:26 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (04bbbe074c76e2ea843ac39cf9140042)] -> id: buynow] found
+2019-04-21 19:08:34 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (04bbbe074c76e2ea843ac39cf9140042)] -> id: address-first-name] found
+2019-04-21 19:08:34 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (04bbbe074c76e2ea843ac39cf9140042)] -> id: address-email] found
+2019-04-21 19:08:34 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (04bbbe074c76e2ea843ac39cf9140042)] -> id: address-mobileno] found
+2019-04-21 19:21:35 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (3ced5abf2bf0d269c6906bef3becedb7)] -> xpath: //a[@href='/womens-clothing/sarees/?MID=megamenu_sarees_seeall']] found
+2019-04-21 19:21:36 INFO  BasePage:64 - Mousehovered on [[ChromeDriver: chrome on XP (3ced5abf2bf0d269c6906bef3becedb7)] -> xpath: //a[@href='/womens-clothing/sarees/?MID=megamenu_sarees_seeall']]
+2019-04-21 19:21:36 INFO  BasePage:79 - MouseHovered on[[ChromeDriver: chrome on XP (3ced5abf2bf0d269c6906bef3becedb7)] -> xpath: //a[@href='/womens-clothing/sarees/?MID=megamenu_sarees_seeall']]
+2019-04-21 19:21:39 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (3ced5abf2bf0d269c6906bef3becedb7)] -> link text: Embroidered Sarees] found
+2019-04-21 19:21:50 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (3ced5abf2bf0d269c6906bef3becedb7)] -> xpath: //img[contains(@src,'1538760092-Craftsvilla_1.jpg')]] found
+2019-04-21 19:21:59 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (3ced5abf2bf0d269c6906bef3becedb7)] -> xpath: //h1[@itemprop='name']] found
+2019-04-21 19:23:52 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (d27690a69f5efffba52189c286ecd80e)] -> xpath: //a[@href='/womens-clothing/sarees/?MID=megamenu_sarees_seeall']] found
+2019-04-21 19:23:52 INFO  BasePage:64 - Mousehovered on [[ChromeDriver: chrome on XP (d27690a69f5efffba52189c286ecd80e)] -> xpath: //a[@href='/womens-clothing/sarees/?MID=megamenu_sarees_seeall']]
+2019-04-21 19:23:52 INFO  BasePage:79 - MouseHovered on[[ChromeDriver: chrome on XP (d27690a69f5efffba52189c286ecd80e)] -> xpath: //a[@href='/womens-clothing/sarees/?MID=megamenu_sarees_seeall']]
+2019-04-21 19:23:53 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (d27690a69f5efffba52189c286ecd80e)] -> link text: Embroidered Sarees] found
+2019-04-21 19:23:58 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (d27690a69f5efffba52189c286ecd80e)] -> xpath: //img[contains(@src,'1538760092-Craftsvilla_1.jpg')]] found
+2019-04-21 19:24:00 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (d27690a69f5efffba52189c286ecd80e)] -> xpath: //h1[@itemprop='name']] found
+2019-04-21 19:24:00 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (d27690a69f5efffba52189c286ecd80e)] -> id: buynow] found
+2019-04-21 19:24:05 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (d27690a69f5efffba52189c286ecd80e)] -> id: address-first-name] found
+2019-04-21 19:24:05 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (d27690a69f5efffba52189c286ecd80e)] -> id: address-email] found
+2019-04-21 19:24:06 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (d27690a69f5efffba52189c286ecd80e)] -> id: address-mobileno] found
+2019-04-22 22:36:14 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (fbbceae2d0ddeb2a6bfd129dd1812e63)] -> xpath: //a[@href='/womens-clothing/sarees/?MID=megamenu_sarees_seeall']] found
+2019-04-22 22:36:18 INFO  BasePage:64 - Mousehovered on [[ChromeDriver: chrome on XP (fbbceae2d0ddeb2a6bfd129dd1812e63)] -> xpath: //a[@href='/womens-clothing/sarees/?MID=megamenu_sarees_seeall']]
+2019-04-22 22:36:18 INFO  BasePage:79 - MouseHovered on[[ChromeDriver: chrome on XP (fbbceae2d0ddeb2a6bfd129dd1812e63)] -> xpath: //a[@href='/womens-clothing/sarees/?MID=megamenu_sarees_seeall']]
+2019-04-22 22:36:49 ERROR BasePage:52 - Proxy element for: DefaultElementLocator 'By.linkText: Embroidered Sarees' not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.linkText: Embroidered Sarees' (tried for 10 second(s) with 500 milliseconds interval)
+2019-04-22 22:37:27 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (6dbdb2ff541333bc83f1036278a879b1)] -> xpath: //a[@href='/womens-clothing/sarees/?MID=megamenu_sarees_seeall']] found
+2019-04-22 22:37:27 INFO  BasePage:64 - Mousehovered on [[ChromeDriver: chrome on XP (6dbdb2ff541333bc83f1036278a879b1)] -> xpath: //a[@href='/womens-clothing/sarees/?MID=megamenu_sarees_seeall']]
+2019-04-22 22:37:27 INFO  BasePage:79 - MouseHovered on[[ChromeDriver: chrome on XP (6dbdb2ff541333bc83f1036278a879b1)] -> xpath: //a[@href='/womens-clothing/sarees/?MID=megamenu_sarees_seeall']]
+2019-04-22 22:37:58 ERROR BasePage:52 - Proxy element for: DefaultElementLocator 'By.linkText: Embroidered Sarees' not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.linkText: Embroidered Sarees' (tried for 10 second(s) with 500 milliseconds interval)
+2019-04-22 22:42:18 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (4b4e362bb39824a9e7c6f938bdfbfe58)] -> xpath: //a[@href='/womens-clothing/sarees/?MID=megamenu_sarees_seeall']] found
+2019-04-22 22:42:19 INFO  BasePage:64 - Mousehovered on [[ChromeDriver: chrome on XP (4b4e362bb39824a9e7c6f938bdfbfe58)] -> xpath: //a[@href='/womens-clothing/sarees/?MID=megamenu_sarees_seeall']]
+2019-04-22 22:42:19 INFO  BasePage:79 - MouseHovered on[[ChromeDriver: chrome on XP (4b4e362bb39824a9e7c6f938bdfbfe58)] -> xpath: //a[@href='/womens-clothing/sarees/?MID=megamenu_sarees_seeall']]
+2019-04-22 22:43:19 ERROR BasePage:52 - Proxy element for: DefaultElementLocator 'By.linkText: Embroidered Sarees' not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.linkText: Embroidered Sarees' (tried for 10 second(s) with 500 milliseconds interval)
+2019-04-22 22:44:33 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (cf1a7511ff60cf0bb0dd3a1e7b97522b)] -> xpath: //a[@href='/womens-clothing/sarees/?MID=megamenu_sarees_seeall']] found
+2019-04-22 22:44:34 INFO  BasePage:64 - Mousehovered on [[ChromeDriver: chrome on XP (cf1a7511ff60cf0bb0dd3a1e7b97522b)] -> xpath: //a[@href='/womens-clothing/sarees/?MID=megamenu_sarees_seeall']]
+2019-04-22 22:44:34 INFO  BasePage:79 - MouseHovered on[[ChromeDriver: chrome on XP (cf1a7511ff60cf0bb0dd3a1e7b97522b)] -> xpath: //a[@href='/womens-clothing/sarees/?MID=megamenu_sarees_seeall']]
+2019-04-22 22:45:40 ERROR BasePage:52 - Proxy element for: DefaultElementLocator 'By.linkText: Embroidered Sarees' not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.linkText: Embroidered Sarees' (tried for 10 second(s) with 500 milliseconds interval)
+2019-04-22 23:15:43 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (d666dd8194da48cf18ed787b9ce1ab1d)] -> xpath: //span[text()='Sign In']] found
+2019-04-22 23:15:45 INFO  BasePage:51 - Sucessfully clicked on[[ChromeDriver: chrome on XP (d666dd8194da48cf18ed787b9ce1ab1d)] -> xpath: //span[text()='Sign In']]
+2019-04-22 23:16:17 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (daa8e796db901760c36e5a7ba7394294)] -> xpath: //span[text()='Sign In']] found
+2019-04-22 23:16:17 INFO  BasePage:51 - Sucessfully clicked on[[ChromeDriver: chrome on XP (daa8e796db901760c36e5a7ba7394294)] -> xpath: //span[text()='Sign In']]
+2019-04-22 23:17:20 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (b7b71c711fdbdcbe8cffa8e18366f123)] -> xpath: //span[text()='Sign In']] found
+2019-04-22 23:17:21 INFO  BasePage:51 - Sucessfully clicked on[[ChromeDriver: chrome on XP (b7b71c711fdbdcbe8cffa8e18366f123)] -> xpath: //span[text()='Sign In']]

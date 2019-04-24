@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" ignored="0" total="1" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Craftsvilla" duration-ms="27251" started-at="2019-04-22T17:50:31Z" finished-at="2019-04-22T17:50:58Z">
+    <groups>
+    </groups>
+    <test name="Regression" duration-ms="27251" started-at="2019-04-22T17:50:31Z" finished-at="2019-04-22T17:50:58Z">
+      <class name="com.craftsvilla.testscripts.LoginToScripts">
+        <test-method status="PASS" signature="launchApplication(java.lang.String)[pri:0, instance:com.craftsvilla.testscripts.LoginToScripts@2b98378d]" name="launchApplication" is-config="true" duration-ms="15320" started-at="2019-04-22T17:50:31Z" finished-at="2019-04-22T17:50:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method status="FAIL" signature="loginToApllication()[pri:0, instance:com.craftsvilla.testscripts.LoginToScripts@2b98378d]" name="loginToApllication" duration-ms="247" started-at="2019-04-22T17:50:46Z" finished-at="2019-04-22T17:50:46Z">
+          <exception class="java.lang.NoClassDefFoundError">
+            <message>
+              <![CDATA[org/apache/commons/collections4/ListValuedMap]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.NoClassDefFoundError: org/apache/commons/collections4/ListValuedMap
+at com.craftsvilla.generic.ReadExcel.getData(ReadExcel.java:28)
+at com.craftsvilla.testscripts.LoginToScripts.loginToApllication(LoginToScripts.java:24)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+Caused by: java.lang.ClassNotFoundException: org.apache.commons.collections4.ListValuedMap
+at java.net.URLClassLoader.findClass(Unknown Source)
+at java.lang.ClassLoader.loadClass(Unknown Source)
+at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)
+at java.lang.ClassLoader.loadClass(Unknown Source)
+... 27 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NoClassDefFoundError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApllication -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:com.craftsvilla.testscripts.LoginToScripts@2b98378d]" name="closeApplication" is-config="true" duration-ms="0" started-at="2019-04-22T17:50:58Z" finished-at="2019-04-22T17:50:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- com.craftsvilla.testscripts.LoginToScripts -->
+    </test> <!-- Regression -->
+  </suite> <!-- Craftsvilla -->
+</testng-results>
