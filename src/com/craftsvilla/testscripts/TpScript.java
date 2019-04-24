@@ -26,6 +26,13 @@ public class TpScript extends BaseTest
 			Reporter.log("Test case fail");	
 		}
 	}
+	
+	
+	@Test
+	public void Tc2() 
+	{
+		
+	}
 
 
 }
