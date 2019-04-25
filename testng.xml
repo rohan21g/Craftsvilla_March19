@@ -7,7 +7,7 @@
   <test thread-count="5" name="Regression">
   <parameter name="browser" value="chrome"></parameter>
   <classes>
-  <class name="com.craftsvilla.testscripts.LoginToScripts"> </class>
+  <class name="com.craftsvilla.testscripts.EmbroidedSaressScripts"> </class>
   </classes>
   </test> <!-- Regression -->
 </suite> <!-- Craftsvilla -->
